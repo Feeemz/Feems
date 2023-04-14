@@ -1,43 +1,21 @@
-# Feems
-A mobile app project for mechanical keyboards fans.
-This is an infographic app for mechanical keyboard beginners. 
-ALL you need for custom mechanical keyboards is here.
+# Feems Project
 
-## Scope: 
-### objectives
-- The app delivers information about custom mechanical keyboards. 
-- Info about their components.
-- MODDING guides: modding a keyboard to its potential.   
-- What to avoid and what to follow on keyboards. 
-### boundaries: 
-- no mouse.
-- no rgb.
-- no pc. 
-- no SALES.
+## Introduction
+This is an introduction to Feems: A mobile infographic for new custom keyboard users
+Feems can:
+- Help you to find out whats there in a mechanical keyboard.
+- Guide you to customize/build your own keyboard.
+## Installation
+To install this project, follow these steps:
+1. Clone the repository.
+2. Run `npm install`.
+3. Run `npm start`.
 
-## Timeline: From 12Apr to May Holidays.
+## Usage
+To use this project, simply run it with `npm start`.
 
-## Design/Known data:
-Keyboard has: 
-Layout:
-Case:
-Plate:
-PCB:
-Switches: 
-Keycaps: 
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
 
-Modding:
-Stabilizers: Tape/lube/ring
-Case: Force break/foam/silicon. 
-Plate: dampener.
-PCB:tapemod
-Switches: Spring/Lube/Film/stem
-Keycaps:
-
-## Tools Used:
-- ReactNative IDE
-- ReduxJS
-- VScode
-- BAICHAT
-- ... 
-## Spikes:
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
