@@ -4,8 +4,7 @@
 This is an introduction to Feems: A mobile infographic for new custom keyboard users
 Feems can:
 - Help you to find out whats there in a mechanical keyboard.
-- Guide you to customize/build your own keyboard.
-## Installation
+- Helps you build your first mechanical keyboard.
 To install this project, follow these steps:
 1. Clone the repository.
 2. Run `npm install`.
