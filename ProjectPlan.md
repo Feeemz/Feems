@@ -51,8 +51,8 @@ Infographic: A custom keyboard has:
 #### A: PCB Assembly.
 - Stabilizers: into PCB.
 - PCB: mount on something smooth like foam./deskmat
-- Dampener: topside of pcb 
-- Plate: topside of dampener. 
+- Dampener: above pcb 
+- Plate: above dampener. 
 #### B: Mount on Case.
 - Switches. 
 - Slot gaskets. 
@@ -60,9 +60,6 @@ Infographic: A custom keyboard has:
 - Mount PCB on top. 
 - Mount top case
 - mount keycaps. 
-
-
-
 
 ## Spikes:
 - Conceptualization
