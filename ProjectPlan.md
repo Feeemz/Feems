@@ -8,64 +8,73 @@ ALL you need for custom mechanical keyboards is here.
 ## Scope: 
 ###     Purpose:
   - Guide App for newcomers to custom keyboards.
-#### Primary purpose: Custom Keyboard Infographic.
-- Infographic: details about custom keyboards.
-- Build guide: how to build a custom keyboard.
-#### Secondary purpose: Building your first Custom Keyboard.
-- The user can build their own keyboards based on personal choice. 
-- What to avoid and what to follow on keyboard building. 
+  #### Primary purpose: Custom Keyboard Infographic.
+  The user can:
+  - Navigate and study through the compartments of a mechanical keyboard.
+  #### Secondary purpose: guide for building a Custom Keyboard.
+  The user can: 
+  - navigate through steps to build a custom keyboard.
+  - Know what to avoid and what to follow on keyboard building. 
+  #### Secondary purpose(to-be-decided): Building own Custom Keyboard:
+  - The user can: select their own compartments and build their own custom keyboard. 
+  - Personal custom keyboard profiles can be saved upon finishing a build.
 ### Target audience: 
 Beginners to mechanical keyboards and want to build one.
-### boundaries: 
+Accessibility: people with fingers to interact with their phones.
+### Boundaries: 
 - Not for keyboard elitists.
-- no mouse.
-- no phones.
-- no pc. 
-- no PE foam.
-## Timeline: 3 weeks: From 12Apr to end of May Holidays May 1st.
-- week 1: design
-- week 3: code + test.
+- no mouse infographic.
+- no phones infographic.
+- no pc infographic. 
+- no monitor infographic.
+- no keyboard modification infographics.
+## Timeline: 6 weeks: From 12th May  to end of 26th June.
+- week 1-2: design
+- week 3-4: code  
+- week 5-6: test and finalize
 
-## Design:
 ## Tools Used:
-- ReactNative IDE
-- ReduxJS
-- VScode
-- BAICHAT
+- ReactNative IDE: main framework
+- Android Studio: testing environment
+- ReduxJS: library
+- VScode: text editor
+- BAICHAT: code assistant
+- AdobeXD: interface
 - ... 
 ### Platform: Web/Android/IOS
+
 ### Infographic section:
 Infographic: A custom keyboard has:
-#### Main features: 
-- Layout
-- Case
-- PCB
-- Plate
-- Swtiches
-- Stabilizers
-- Keycaps
-#### Secondary features: 
-- Building a keyboard.
-### Building section:
+  #### Main features: 
+  - Layout
+  - Case
+  - PCB
+  - Plate
+  - Swtiches
+  - Stabilizers
+  - Keycaps
+  #### Secondary features: 
+  - Building a keyboard.
+  ### Building section:
 
-#### A: PCB Assembly.
-- Stabilizers: into PCB.
-- PCB: mount on something smooth like foam./deskmat
-- Dampener: above pcb 
-- Plate: above dampener. 
-#### B: Mount on Case.
-- Switches. 
-- Slot gaskets. 
-- Mount case foam bottom side. 
-- Mount PCB on top. 
-- Mount top case
-- mount keycaps. 
-
+      #### A: PCB Assembly.
+      - Stabilizers: into PCB.
+      - PCB: mount on something smooth like foam./deskmat
+      - Dampener: above pcb 
+      - Plate: above dampener. 
+      #### B: Mount on Case.
+      - Switches. 
+      - Slot gaskets. 
+      - Mount case foam bottom side. 
+      - Mount PCB on top. 
+      - Mount top case
+      - mount keycaps. 
+      
 ## Spikes:
-- Conceptualization
-- Layout design
-- Content design
-- Code
-- Test
+      - Conceptualization
+      - Layout design
+      - Content design
+      - Code
+      - Test
 
 
